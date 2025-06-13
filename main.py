@@ -31,3 +31,4 @@ def continuous_recognition():
 
 if __name__ == "__main__":
     continuous_recognition()
+    #test
